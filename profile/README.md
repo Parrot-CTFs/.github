@@ -49,18 +49,6 @@ lory tui --cached     # triage what it found
 | **[owasp-top-10-labs-lamp-dockerized](https://github.com/Lorikeet-Security/owasp-top-10-labs-lamp-dockerized)** | Dockerized OWASP Top 10 lab machines. Deliberately vulnerable, deliberately reproducible — what we train our own testers on. | `PHP` |
 | **[PCTFS-MICROLABS](https://github.com/Lorikeet-Security/PCTFS-MICROLABS)** | Free-to-use standalone web app of hands-on micro labs for sharpening practical security skills. | `PHP` |
 
-### Field Tooling
-
-Things we built for our own engagements and left open.
-
-| Project | What it does | |
-|---|---|---|
-| **[typo-sniper](https://github.com/Lorikeet-Security/typo-sniper)** | Async typosquatting and domain threat-intelligence scanner. Detects lookalike domains, integrates with URLScan, Doppler and AWS Secrets Manager. | `Python` |
-| **[parrot-recon](https://github.com/Lorikeet-Security/parrot-recon)** | Recon automation for bug bounty work. | `Perl` |
-| **[pentest-automation](https://github.com/Lorikeet-Security/pentest-automation)** | A collection of pentest automation scripts accumulated over time. | `Python` |
-| **[PCTFS_Crypto_scanner](https://github.com/Lorikeet-Security/PCTFS_Crypto_scanner)** | Analyze any local workspace or GitHub repo for cryptographic primitives, risky implementations and secret handling. | `JavaScript` `MIT` |
-| **[kibble](https://github.com/Lorikeet-Security/kibble)** | Chew through any source into clean datasets — a fast ingestion, RAG and fine-tuning toolkit. | `Rust` `Apache-2.0` |
-
 [**Browse all repositories →**](https://github.com/orgs/Lorikeet-Security/repositories)
 
 ---
